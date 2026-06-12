@@ -144,7 +144,7 @@ while True:
     for i in range(el):
         a = input("Enter object no. {} to add to the list : ".format(i))
         ils.append(a)
-    print(ils)
+    print("\nYour list :  ", ils, "\n")
     ils_archive = ils.copy()
     while True:
         fun = int(
