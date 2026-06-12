@@ -62,4 +62,3 @@ The main purpose of this project is to practice Python list operations in an int
 
 Mani
 
-Created as a Python practice project during training sessions.
